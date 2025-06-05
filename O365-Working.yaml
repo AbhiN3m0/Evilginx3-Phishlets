@@ -1,5 +1,5 @@
 name: 'o365-mfa'
-author: '@faelsfernandes-modified'
+author: '@abhinav'
 min_ver: '2.4.0'
 
 proxy_hosts:
